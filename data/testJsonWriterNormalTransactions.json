@@ -1,0 +1,7 @@
+{
+    "Transactions": [
+        {"Category & Amount": "shopping: -$100.0"},
+        {"Category & Amount": "salary: +$1000.0"}
+    ],
+    "Balance": 1000
+}

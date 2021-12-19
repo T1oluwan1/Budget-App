@@ -1,0 +1,36 @@
+{
+    "Transactions": [
+        {"Category & Amount": "salary: +$1000.0"},
+        {"Category & Amount": "shopping: -$137.0"},
+        {"Category & Amount": "returns: +$15.0"},
+        {"Category & Amount": "dining: -$60.0"},
+        {"Category & Amount": "education: -$750.0"},
+        {"Category & Amount": "transportation: -$15.0"},
+        {"Category & Amount": "loans: +$225.0"},
+        {"Category & Amount": "bills: -$150.0"}
+    ],
+    "Categories": [
+        {"Transportation Transactions": [{"Expenses & Incomes": -15}]},
+        {"Bills Transactions": [{"Expenses & Incomes": -150}]},
+        {"Education Transactions": [{"Expenses & Incomes": -750}]},
+        {},
+        {"Dining Transactions": [{"Expenses & Incomes": -60}]},
+        {},
+        {},
+        {"Shopping Transactions": [{"Expenses & Incomes": -137}]},
+        {"Salary Transactions": [{"Expenses & Incomes": 1000}]},
+        {"Returns Transactions": [{"Expenses & Incomes": 15}]},
+        {"Loans Transactions": [{"Expenses & Incomes": 225}]}
+    ],
+    "Balance": 128,
+    "Budgets": [
+        {"Transportation Budget": 20},
+        {"Bills Budget": 150},
+        {"--- Budget": 0},
+        {"--- Budget": 0},
+        {"Dining Budget": 45},
+        {"--- Budget": 0},
+        {"--- Budget": 0},
+        {"Shopping Budget": 300}
+    ]
+}
