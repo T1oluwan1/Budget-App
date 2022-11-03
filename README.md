@@ -1,5 +1,3 @@
-# <ins>My Personal Project</ins>
-
 ## Budget App(Expense Tracker)
 
 **Proposal:** This application is designed to help give an overview of an individuals money flow and to assist them in 
@@ -17,13 +15,14 @@ The functions of my app are listed below, both regular and unique (which will be
 - Record Expenses and subtract from balance
 - Record Internal and External transfers and adjust from balance
 - Categorize Income and Expenses
-- Provide a graph of monthly/weekly flow of monthly and stats
-- *Calculate Linear Regression and make predictions for future weeks and months*
+- Provide a graph of monthly/weekly flow of monthly and stats [TODO]
+- *Calculate Linear Regression and make predictions for future weeks and months* [TODO]
 - Create and manage personalized budgets
 - *Make encouraging comments that differ based on account balance range*
 - Give warnings when close or going over budget
 - Give warnings when spending more than earning
-- *Change overview currency to at least 5 different main currencies*
+- *Change overview currency to at least 5 different main currencies* [TODO]
+- Data will be stored in account that can be logged in to [TODO]
 - .....more?
 
 List as of now is uncertain and many changes will be added later, both implementing new things and removing old things
@@ -40,10 +39,17 @@ List as of now is uncertain and many changes will be added later, both implement
 
 ## Current Tasks
 - Increase overall robustness by throwing several exceptions
-- Implemented Category Info (started but couldn't finish in time)
+- Implemented Category Info
 - Increased cohesion and coupling by making categories an abstract class and making expenses and income it's subtype or
 - Increased cohesion and coupling by making every category its own class
 - Added more features, such as a field set to 1 that amount & balance are multiplied by, allowing me to change currency
+- Implement Account class and Login
+
+## How to Install
+...
+
+## How to Use
+...
 
 ## Citations
 - Json Serialization Demo (Reference for Save and Load to file):
