@@ -1,4 +1,4 @@
-## Budget App(Expense Tracker)
+## Budget App (Expense Tracker)
 
 **Proposal:** This application is designed to help give an overview of an individuals money flow and to assist them in 
 managing it. This application should be free for anyone to use, however its intended audience is primarily young adults, 
