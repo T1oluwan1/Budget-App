@@ -1,4 +1,4 @@
-*(Imported for local residue of delete Github account.)
+*(Imported for local residue of deleted Github account.)
 ## Budget App (Expense Tracker)
 
 **Proposal:** This application is designed to help give an overview of an individuals money flow and to assist them in 
